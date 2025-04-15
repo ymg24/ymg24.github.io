@@ -10,7 +10,7 @@
 ############################
 
 # Name of website
-title: My website
+title: Pagina Bonita
 
 # Your name to show in the footer
 author: Yanin
@@ -32,6 +32,8 @@ navbar-links:
 
 # Image to show in the navigation bar - works best with a square image
 # Remove this parameter if you don't want an image in the navbar
+title-img: /assets/img/suit.jpg
+
 avatar: "/assets/img/avatar-icon.png"
 
 # By default, the image is cut into a circle. You can disable this behaviour by setting 'round-avatar: false'
@@ -86,7 +88,8 @@ social-network-links:
 
 # If you want your website to generate an RSS feed, provide a description
 # The URL for the feed will be https://<your_website>/feed.xml
-rss-description: This website is a virtual proof that I'm awesome
+rss-description: Bienvenida a mi sitio personal de desarrollo y proyectos creativos.
+
 
 ###########################
 # --- General options --- #
@@ -102,7 +105,7 @@ share-links-active:
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "MyWebsite.com"
+url-pretty: "ymg24.github.io"
 
 # Add the website title to the title of every page
 title-on-all-pages: true
