@@ -4,10 +4,10 @@ title: About me
 subtitle: Why you'd want to go on a date with me
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+hola me llamo maricruz y cuento con las siguientes cualidades:
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+- Me gusta los números
+- Me gustan las papas fritas y rocoto relleno
 
 What else do you need?
 
