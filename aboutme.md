@@ -24,5 +24,5 @@ Sócrates no pensaba así."
 - El viaje de los colibríes
     "Nacimos para soñar: somos capaces de crear, de creer y de ser feliz. Nuestro destino irremediablemente es morir, pero nuestra misión es amar intensamente, despojarnos de los miedos y atrevernos a no quedarnos con las ganas."
 
-### My story
-Cancion que me tranquiliza [aqui](https://www.youtube.com/watch?v=HrBjGDsZxYM) escuchalo.
+### Canción ⭐
+Canción que me tranquiliza [aqui](https://www.youtube.com/watch?v=HrBjGDsZxYM) escuchalo.
